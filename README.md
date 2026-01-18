@@ -103,6 +103,6 @@ Make sure the ESP32 is connected before running the Python script.
 🙌 Final Thoughts
 
 This project helped me grow both technically and mentally.
-It wasn’t always smooth; lag, errors, wiring issues — but solving them was the best part.
+It wasn’t always smooth; lag, errors, wiring issues; but solving them was the best part.
 
 If you’re learning embedded systems, computer vision, or just like building things that move and light up, I hope this project helps or inspires you.
