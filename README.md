@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/5a713d16-99ec-4866-b518-c9b6a6676058
 # gesture-controlled-leds-esp32
 Control multiple LEDs using hand gestures with Python, Mediapipe, and ESP32 through real-time serial communication.
 🤖 Gesture Controlled LEDs using ESP32
@@ -73,7 +75,14 @@ ESP32 reads the data
 
 LEDs turn ON or OFF based on received commands
 
-Multiple LEDs can be controlled at the same time without changing pin connections.
+Multiple LEDs can be controlled simultaneously without changing pin connections.
+
+
+
+https://github.com/user-attachments/assets/bc0ee282-116c-43ac-b9d4-bbe3ed9937fe
+
+
+
 
 📂 Project Structure
 gesture-controlled-leds-esp32/
