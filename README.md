@@ -79,7 +79,7 @@ Multiple LEDs can be controlled simultaneously without changing pin connections.
 
 
 
-https://github.com/user-attachments/assets/bc0ee282-116c-43ac-b9d4-bbe3ed9937fe
+
 
 
 
