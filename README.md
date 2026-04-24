@@ -108,7 +108,7 @@ python gesture_control.py
 Make sure the ESP32 is connected before running the Python script.
 
 
-🙌 Final Thoughts
+ Final Thoughts 👀
 
 This project helped me grow both technically and mentally.
 It wasn’t always smooth; lag, errors, wiring issues; but solving them was the best part.
